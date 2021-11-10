@@ -4,10 +4,11 @@
 In this simple lib I implemented some of the famous CNN architectures in pytorch. You can use the lib to to train any of these models on your custom data using few lines of code. The library supports cpu training and single-gpu training.
 
 Now the library supports 4 models:
--[x] **VGG16,** 
--[x] **ResNet,**
--[x] **InceptionV1
--[x] **Alexnet**
+
+- [x] **VGG16,** 
+- [x] **ResNet,**
+- [x] **InceptionV1
+- [x] **Alexnet**
 
 ## How to use the library: 
 First prepare your data using pytorch dataloader. Here I will use cifar10 dataset from torchvision.
