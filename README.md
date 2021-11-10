@@ -7,7 +7,7 @@ Now the library supports 4 models:
 
 - [x] **VGG16,** 
 - [x] **ResNet,**
-- [x] **InceptionV1
+- [x] **InceptionV1**
 - [x] **Alexnet**
 
 ## How to use the library: 
