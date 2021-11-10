@@ -31,7 +31,7 @@ test_loader = DataLoader(cifar10_test , batch_size=64)
 num_classes=10
 
 ```
-Then create the model cnnModels library, the optimizer and define the loss function
+Then create the model using cnnModels library, the optimizer and define the loss function
 
 ```python
 
