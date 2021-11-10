@@ -46,7 +46,7 @@ Lets check for the gpu
 ```python
  device = torch.device('cuda') if torch.cuda.is_available() else  torch.device('cpu')
 ```
-Now to train AlexNet you need just **one line** of code
+Now to train AlexNet you need just **one line** of code.
 
 ```python
 alexnet.Train(device ,criterion, train_loader, test_loader , optimizer, num_epochs=10)
