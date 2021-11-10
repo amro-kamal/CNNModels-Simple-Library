@@ -1,5 +1,5 @@
 # cnnModels
-**A simple library I wrote in Python to implement and train some of the famous CNNs architectures.**
+**A simple Pytorch library to implement and train some of the famous CNNs architectures.**
 
 In this simple lib I implemented some of the famous CNN architectures in pytorch. You can use the lib to to train any of these models on your custom data using few lines of code. The library supports cpu training and single-gpu training.
 
